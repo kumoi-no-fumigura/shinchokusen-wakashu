@@ -1,6 +1,7 @@
 {
  "work": "新勅撰和歌集",
  "work_id": "kt-shinchokusen",
+ "repo": "kumoi-no-fumigura/shinchokusen-wakashu",
  "yomi": "しんちょくせんわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -16533,6 +16534,5 @@
    "text": "初子日摘める若菜か珍らしと野邊の小松に働へとぞ見るて",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/shinchokusen-wakashu"
+ ]
 }
